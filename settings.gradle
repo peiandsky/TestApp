@@ -1,0 +1,4 @@
+rootProject.name='TestApp'
+include ':app'
+include ':LibAndroid'
+include ':LibCommon'
